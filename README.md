@@ -18,3 +18,4 @@ root/
 ├── input.txt
 └── README.md
 ```
+![Alt text](./kmeans.png)
